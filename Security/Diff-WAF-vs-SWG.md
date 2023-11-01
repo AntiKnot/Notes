@@ -1,4 +1,4 @@
-#Difference WAF vs. SWG
+# Difference WAF vs. SWG
 
 WAF, Web Application Firewall. web应用防火墙，防护企业提供的WEB应用，部署在WEB应用服务器前端，web服务器的防攻击；
 
